@@ -1,0 +1,115 @@
+{
+ "image": "dragon-atlas",
+ "anims": {
+  "idle": {
+   "x": 0,
+   "y": 207,
+   "w": 125,
+   "h": 98,
+   "frames": 7,
+   "stride": 127,
+   "fps": 8,
+   "loop": true,
+   "ax": 56,
+   "ay": 98
+  },
+  "walk": {
+   "x": 0,
+   "y": 406,
+   "w": 133,
+   "h": 83,
+   "frames": 7,
+   "stride": 135,
+   "fps": 10,
+   "loop": true,
+   "ax": 60,
+   "ay": 83
+  },
+  "fly": {
+   "x": 0,
+   "y": 105,
+   "w": 186,
+   "h": 100,
+   "frames": 6,
+   "stride": 188,
+   "fps": 10,
+   "loop": true,
+   "ax": 79,
+   "ay": 88
+  },
+  "fire": {
+   "x": 519,
+   "y": 307,
+   "w": 154,
+   "h": 83,
+   "frames": 3,
+   "stride": 156,
+   "fps": 9,
+   "loop": false,
+   "ax": 61,
+   "ay": 83
+  },
+  "ice": {
+   "x": 0,
+   "y": 307,
+   "w": 171,
+   "h": 97,
+   "frames": 3,
+   "stride": 173,
+   "fps": 9,
+   "loop": false,
+   "ax": 69,
+   "ay": 97
+  },
+  "cast": {
+   "x": 0,
+   "y": 0,
+   "w": 126,
+   "h": 103,
+   "frames": 5,
+   "stride": 128,
+   "fps": 9,
+   "loop": false,
+   "ax": 56,
+   "ay": 103
+  },
+  "roar": {
+   "x": 640,
+   "y": 0,
+   "w": 134,
+   "h": 96,
+   "frames": 2,
+   "stride": 136,
+   "fps": 5,
+   "loop": false,
+   "ax": 68,
+   "ay": 96
+  },
+  "rest": {
+   "x": 0,
+   "y": 491,
+   "w": 112,
+   "h": 72,
+   "frames": 4,
+   "stride": 114,
+   "fps": 6,
+   "loop": false,
+   "ax": 55,
+   "ay": 72
+  },
+  "death": {
+   "x": 456,
+   "y": 491,
+   "w": 120,
+   "h": 59,
+   "frames": 3,
+   "stride": 122,
+   "fps": 6,
+   "loop": false,
+   "ax": 57,
+   "ay": 59
+  }
+ },
+ "width": 1128,
+ "height": 565
+}
